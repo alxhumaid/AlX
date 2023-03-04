@@ -3,5 +3,5 @@ services:
     whatsapp-chatgpt:
         image: ghcr.io/askrella/whatsapp-chatgpt:master
         environment:
-            OPENAI_API_KEY: ""
-            PREFIX_ENABLED: ""
+            OPENAI_API_KEY: "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"
+            PREFIX_ENABLED: "True"
